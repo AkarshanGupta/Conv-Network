@@ -4,4 +4,4 @@
   * Second one **GPU**.In also there is simple neural network but only thing differs that it runs on **GPU** you can refer the same notebook which I have mentioned above
   * Third one **GPU**.In this I have built a Convulational Neural Netwrok using pytorch.I have tried built [network](https://poloclub.github.io/cnn-explainer/) like this one.
 
-* Note some code might throw error because, I have tried to run 3 models on **CPU and GPU** which made some code to throw error.You can also sort out it.
+* Note some code might throw error because, I have tried to run 3 models on **CPU and GPU**.You can also sort out it.
